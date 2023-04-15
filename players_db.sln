@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "players_db", "players_db\players_db.csproj", "{540A603C-F137-4373-8534-BC23123D9ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540A603C-F137-4373-8534-BC23123D9ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540A603C-F137-4373-8534-BC23123D9ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540A603C-F137-4373-8534-BC23123D9ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540A603C-F137-4373-8534-BC23123D9ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15A8CE97-CF93-4A07-A26F-D697EBC2FCB8}
+	EndGlobalSection
+EndGlobal

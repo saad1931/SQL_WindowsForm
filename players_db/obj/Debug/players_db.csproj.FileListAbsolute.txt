@@ -1,0 +1,12 @@
+D:\OOP LABS\players_db\players_db\bin\Debug\players_db.exe.config
+D:\OOP LABS\players_db\players_db\bin\Debug\players_db.exe
+D:\OOP LABS\players_db\players_db\bin\Debug\players_db.pdb
+D:\OOP LABS\players_db\players_db\obj\Debug\players_db.csproj.AssemblyReference.cache
+D:\OOP LABS\players_db\players_db\obj\Debug\players_db.Form1.resources
+D:\OOP LABS\players_db\players_db\obj\Debug\players_db.Properties.Resources.resources
+D:\OOP LABS\players_db\players_db\obj\Debug\players_db.csproj.GenerateResource.cache
+D:\OOP LABS\players_db\players_db\obj\Debug\players_db.csproj.CoreCompileInputs.cache
+D:\OOP LABS\players_db\players_db\obj\Debug\players_db.exe
+D:\OOP LABS\players_db\players_db\obj\Debug\players_db.pdb
+D:\OOP LABS\players_db\players_db\obj\Debug\players_db.Form2.resources
+D:\OOP LABS\players_db\players_db\obj\Debug\players_db.Form3.resources
